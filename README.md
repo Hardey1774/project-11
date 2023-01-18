@@ -2,14 +2,20 @@
 
 
 INSTALLING ANSIBLE
+
 <img width="385" alt="1 Installing ansible" src="https://user-images.githubusercontent.com/111874994/213011456-04b33fb4-ff5c-4091-a220-df431e60eed7.PNG">
 
+
+
+2 version of ansible installed
 
 <img width="848" alt="2 version of ansible installed" src="https://user-images.githubusercontent.com/111874994/213011459-18816aec-cf77-4428-bb12-512304cfbecd.PNG">
 
 
 <img width="953" alt="3 configuring webhook" src="https://user-images.githubusercontent.com/111874994/213011463-8df31471-77e5-4d38-9d05-35bded5ce279.PNG">
 
+
+Configuring webhook
 
 <img width="958" alt="4 archiving post build action" src="https://user-images.githubusercontent.com/111874994/213011467-2167c96d-0c7b-461b-9987-9031776aba74.PNG">
 
