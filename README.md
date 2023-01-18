@@ -109,4 +109,5 @@ After running ansible playbooks
 
 Wireshack installed
 
-<img width="865"21 wireshark installed" src="https://user-images.githubusercontent.com/111874994/213011547-196b1d32-b2e9-45ed-b8bc-793896224225.PNG">
+<img width="865" alt="21 wireshack installed" src="https://user-images.githubusercontent.com/111874994/213140821-817d509b-4029-429b-8e5f-32adf1ef2f6d.PNG">
+
